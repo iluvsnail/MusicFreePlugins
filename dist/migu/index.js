@@ -560,7 +560,7 @@ module.exports = {
     },
     primaryKey: ["id", "copyrightId"],
     cacheControl: "no-cache",
-    srcUrl: "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/migu/index.js",
+    srcUrl: "https://github.com/iluvsnail/MusicFreePlugins/blob/old/dist/migu/index.js",
     supportedSearchType: ["music", "album", "sheet", "artist", "lyric"],
     getMediaSource,
     async search(query, page, type) {
