@@ -144,7 +144,7 @@ module.exports = {
   version: "0.0.1",
   author: '猫头猫',
   srcUrl:
-    "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/kuaishou/index.js",
+    "https://github.com/iluvsnail/MusicFreePlugins/blob/old/dist/kuaishou/index.js",
   cacheControl: "no-cache",
   supportedSearchType: ["music"],
   async search(query, page, type) {

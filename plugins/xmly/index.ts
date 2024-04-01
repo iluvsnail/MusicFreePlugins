@@ -205,7 +205,7 @@ module.exports = {
   version: "0.1.6",
   supportedSearchType: ["music", "album", "artist"],
   srcUrl:
-    "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/xmly/index.js",
+    "https://github.com/iluvsnail/MusicFreePlugins/blob/old/dist/xmly/index.js",
   cacheControl: "no-cache",
   search,
   getAlbumInfo,
